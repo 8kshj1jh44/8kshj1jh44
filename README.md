@@ -45,6 +45,6 @@ Click a badge to view it on TryHackMe:
 [![Email](https://img.shields.io/badge/Email-franzlyster%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:franzlyster@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/franzlystrr)
 
-
-
-  
+---
+| <a href="https://github.com/8kshj1jh44/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=8kshj1jh44&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/8kshj1jh44/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8kshj1jh44&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
