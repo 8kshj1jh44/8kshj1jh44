@@ -1,38 +1,50 @@
-# Hi — I'm Franz Lyster L. Tagalogon 👋
+# Hi I'm Franz Lyster L. Tagalogon 👋
 **Aspiring Cybersecurity Professional | Penetration Testing Enthusiast**
 
-I'm learning and practicing penetration testing with a focus on the TryHackMe **JPentest** route. I use Burp Suite and Wireshark in my learning and hands-on labs, and I am comfortable in Kali Linux. I showcase my TryHackMe badges below — click any badge to open my TryHackMe profile.
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/franzlystrr)
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-lightgrey?style=for-the-badge)](https://www.credly.com/badges/907ecff0-fa91-4745-979d-8a83ed58d1f0/linked_in_profile)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-lightgrey?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/-Wireshark-lightgrey?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-lightgrey?style=for-the-badge)
 
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/franzlystrr)  
-TryHackMe profile: https://tryhackme.com/p/franzlystrr  
-LinkedIn: https://www.linkedin.com/feed/
-
----
-
-## 🔭 About me
-- Currently following the **JPentest** learning path on TryHackMe; doing labs and writeups.
-- Practicing web and network pentesting techniques.
-- Learning and using tools like **Burp Suite**, **Wireshark**, and **Kali Linux**.
-- Completing practical labs and Coursera modules to strengthen foundational knowledge.
 
 ---
 
-## 🛠 Tools & Skills
-**Tools**
-- Burp Suite (interception, repeater, scanner basics)  
-- Wireshark (packet capture & analysis)  
-- Kali Linux (pentest environment)
-
-**Skills**
-- Reconnaissance (nmap, basic scanning concepts)
-- Web application testing (OWASP Top 10 basics)
-- Network traffic analysis
-- Report-style writeups & documenting methodology
+## 🔭 About Me
+I am from the Philippines. I like cybersecurity, and I am currently learning how to become one :) 
+Following the **JPentest** learning path on TryHackMe and practicing hands-on labs to become a penetration tester. I use **Burp Suite** and **Wireshark**, and I work primarily in **Kali Linux**.
 
 ---
 
 ## 🏅 TryHackMe Badges
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3509277" style='border:none;'></iframe>
+Click a badge to view it on TryHackMe:
 
-```markdown
-[![TryHackMe — Franz](https://raw.githubusercontent.com/<your-username>/<your-username>/master/assets/thm_badge.png)](https://tryhackme.com/p/franzlystrr)
+[![Intro to Web Hacking Badge](https://img.shields.io/badge/Intro%20to%20Web%20Hacking-%20Badge-blue?style=for-the-badge)](https://tryhackme.com/franzlystrr/badges/intro-to-web-hacking?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=66e590ad5a1b22be50da96b4)
+[![Burped Badge](https://img.shields.io/badge/Burped-%20Badge-blue?style=for-the-badge)](https://tryhackme.com/franzlystrr/badges/burped?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=66e590ad5a1b22be50da96b4)
+
+---
+
+## 🛠 Tools & Technologies
+- **Burp Suite** — web testing (intercept, repeater, scanner basics)  
+- **Wireshark** — packet capture & protocol analysis  
+- **Kali Linux** — pentest environment & tooling  
+- **Bash / Python** — scripting for automation and parsing
+
+---
+
+## 📚 Goals
+- Complete the JPentest path on TryHackMe and publish polished writeups.  
+- Deepen web-app pentesting skills (OWASP Top 10).  
+- Build reproducible labs and clear tutorials others can follow.  
+- Progress toward practical certifications.
+
+---
+
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/franz-lyster-tagalogon-2b7283217/)
+[![Email](https://img.shields.io/badge/Email-franzlyster%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:franzlyster@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/franzlystrr)
+
+
+
+  
