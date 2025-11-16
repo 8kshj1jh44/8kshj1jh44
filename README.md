@@ -6,6 +6,8 @@
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-lightgrey?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-lightgrey?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-lightgrey?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
+
 
 
 ---
@@ -21,6 +23,7 @@ Click a badge to view it on TryHackMe:
 
 [![Intro to Web Hacking Badge](https://img.shields.io/badge/Intro%20to%20Web%20Hacking-%20Badge-blue?style=for-the-badge)](https://tryhackme.com/franzlystrr/badges/intro-to-web-hacking?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=66e590ad5a1b22be50da96b4)
 [![Burped Badge](https://img.shields.io/badge/Burped-%20Badge-blue?style=for-the-badge)](https://tryhackme.com/franzlystrr/badges/burped?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=66e590ad5a1b22be50da96b4)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ---
 
