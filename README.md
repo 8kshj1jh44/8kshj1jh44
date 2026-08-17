@@ -88,7 +88,7 @@ An educational website designed to help people learn about Philippine snakes and
 
 ## 📚 Currently Learning
 
-text
+
 🤖 AI Automation & AI Agents
 ⚡ Advanced n8n Workflows
 🔗 API & Webhook Integrations
