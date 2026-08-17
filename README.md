@@ -1,53 +1,98 @@
-# Hi I'm Franz Lyster L. Tagalogon 👋
-**Aspiring Cybersecurity Professional | Penetration Testing Enthusiast**
+# Hi, I'm Franz Lyster L. Tagalogon 👋
 
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/franzlystrr)
-[![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-lightgrey?style=for-the-badge)](https://www.credly.com/badges/907ecff0-fa91-4745-979d-8a83ed58d1f0/linked_in_profile)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-lightgrey?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/-Wireshark-lightgrey?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-lightgrey?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
+### 🤖 AI Automation | ⚡ n8n | 💻 Web Development | 🚀 Vibe Coding
 
+I build **AI-powered automations, AI agents, and web applications** that help automate repetitive tasks and turn ideas into working solutions.
 
+Currently focused on **AI Automation with n8n**, integrating AI models, APIs, databases, and third-party services to create practical workflows. I also enjoy **vibe coding and building websites**, using AI-assisted development tools to rapidly turn ideas into functional applications.
 
----
-
-## 🔭 About Me
-I am from the Philippines. I like cybersecurity, and I am currently learning how to become one :) 
-Following the **JPentest** learning path on TryHackMe and practicing hands-on labs to become a penetration tester. I use **Burp Suite** and **Wireshark**, and I work primarily in **Kali Linux**.
+[![n8n](https://img.shields.io/badge/n8n-AI%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
+[![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Web%20Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![AI%20Agents](https://img.shields.io/badge/AI-Agents-blueviolet?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 
 ---
 
-## 🏅 TryHackMe Badges
-Click a badge to view it on TryHackMe:
+## 🚀 About Me
 
-[![Intro to Web Hacking Badge](https://img.shields.io/badge/Intro%20to%20Web%20Hacking-%20Badge-blue?style=for-the-badge)](https://tryhackme.com/franzlystrr/badges/intro-to-web-hacking?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=66e590ad5a1b22be50da96b4)
-[![Burped Badge](https://img.shields.io/badge/Burped-%20Badge-blue?style=for-the-badge)](https://tryhackme.com/franzlystrr/badges/burped?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=66e590ad5a1b22be50da96b4)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)](https://tryhackme.com/franzlystrr/badges/metasploitable)
+I'm a Computer Engineering graduate from the Philippines with a growing focus on **AI Automation and AI-assisted Web Development**.
 
----
+I enjoy building solutions that connect different tools and services together. My current work includes creating **n8n workflows, AI agents, chatbot automations, API integrations, and web applications**.
 
-## 🛠 Tools & Technologies
-- **Burp Suite** — web testing (intercept, repeater, scanner basics)  
-- **Wireshark** — packet capture & protocol analysis  
-- **Kali Linux** — pentest environment & tooling  
-- **Bash / Python** — scripting for automation and parsing
+### What I'm currently working on:
 
----
-
-## 📚 Goals
-- Complete the JPentest path on TryHackMe and publish polished writeups.  
-- Deepen web-app pentesting skills (OWASP Top 10).  
-- Build reproducible labs and clear tutorials others can follow.  
-- Progress toward practical certifications.
+- 🤖 Building **AI-powered automation workflows**
+- ⚡ Learning and building with **n8n**
+- 🧠 Creating **AI Agents and chatbots**
+- 📅 Integrating services such as **Google Calendar, Google Sheets, APIs, and AI models**
+- 💻 Building websites and web applications through **AI-assisted/vibe coding**
+- 🔗 Connecting applications, APIs, databases, and automation tools
+- 🐍 Using Python for scripting and automation
 
 ---
 
-## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/franz-lyster-tagalogon-2b7283217/)
-[![Email](https://img.shields.io/badge/Email-franzlyster%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:franzlyster@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/franzlystrr)
+## 🛠️ Tech Stack
+
+### 🤖 AI & Automation
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
+![API Integration](https://img.shields.io/badge/API-Integration-orange?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-Automation-blue?style=for-the-badge)
+
+### 💻 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google%20Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
 ---
-| <a href="https://github.com/8kshj1jh44/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=8kshj1jh44&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/8kshj1jh44/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8kshj1jh44&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+## 💡 Projects & Things I Build
+
+### 🦷 AI-Powered Dental Appointment Assistant
+
+An AI chatbot automation that helps collect patient information and appointment preferences.
+
+**Features:**
+
+- Conversational AI interaction
+- Collects patient details and dental procedure
+- Handles preferred appointment dates and times
+- Integrates with Google Calendar
+- Stores information in Google Sheets
+- Uses AI Agent workflows with n8n
+
+**Tech:** `n8n` `AI Agents` `Google Calendar API` `Google Sheets` `Gemini`
+
+---
+
+### 🐍 A Dummy's Guide to Philippine Snakes
+
+An educational website designed to help people learn about Philippine snakes and promote awareness about their importance in the ecosystem.
+
+**Tech:** `WordPress` `Docker` `Web Development`
+
+---
+
+## 📚 Currently Learning
+
+text
+🤖 AI Automation & AI Agents
+⚡ Advanced n8n Workflows
+🔗 API & Webhook Integrations
+💻 AI-Assisted / Vibe Coding
+🌐 Full-Stack Web Development
+🐍 Python Automation
+🐳 Docker & Deployment
