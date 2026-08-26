@@ -98,9 +98,13 @@ I also have a background and interest in cybersecurity, including **web security
 
 ## 📊 GitHub Stats
 
-| GitHub Stats | Most Used Languages |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=8kshj1jh44&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Franz's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8kshj1jh44&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /> |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=8kshj1jh44&show_icons=true&theme=default&hide_border=true" alt="Franz's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8kshj1jh44&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+</p>
 
 ---
 
