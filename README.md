@@ -2,9 +2,9 @@
 
 ### 🤖 AI Automation | ⚡ n8n | 💻 Web Development | 🚀 Vibe Coding
 
-I build **AI-powered automations, AI agents, and web applications** that help automate repetitive tasks and turn ideas into working solutions.
+I build **AI-powered automations, AI agents, and web applications** that turn ideas into practical solutions.
 
-Currently focused on **AI Automation with n8n**, integrating AI models, APIs, databases, and third-party services to create practical workflows. I also enjoy **vibe coding and building websites**, using AI-assisted development tools to rapidly turn ideas into functional applications.
+Currently focused on **AI Automation with n8n**, integrating AI models, APIs, databases, and third-party services to create useful workflows. I also build websites and web applications using **AI-assisted development and vibe coding**.
 
 [![n8n](https://img.shields.io/badge/n8n-AI%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -16,19 +16,21 @@ Currently focused on **AI Automation with n8n**, integrating AI models, APIs, da
 
 ## 🚀 About Me
 
-I'm a Computer Engineering graduate from the Philippines with a growing focus on **AI Automation and AI-assisted Web Development**.
+I'm a Computer Engineering graduate from the Philippines focused on **AI Automation and AI-assisted Web Development**.
 
-I enjoy building solutions that connect different tools and services together. My current work includes creating **n8n workflows, AI agents, chatbot automations, API integrations, and web applications**.
+I enjoy building solutions that connect different tools and services together. My work includes creating **n8n workflows, AI agents, chatbot automations, API integrations, websites, and web applications**.
 
-### What I'm currently working on:
+I like turning ideas into working products by combining **automation, AI, APIs, and modern web development tools**.
 
-- 🤖 Building **AI-powered automation workflows**
-- ⚡ Learning and building with **n8n**
-- 🧠 Creating **AI Agents and chatbots**
-- 📅 Integrating services such as **Google Calendar, Google Sheets, APIs, and AI models**
-- 💻 Building websites and web applications through **AI-assisted/vibe coding**
-- 🔗 Connecting applications, APIs, databases, and automation tools
-- 🐍 Using Python for scripting and automation
+---
+
+## 💡 What I Build
+
+- 🤖 **AI Automation Workflows** — Automating repetitive tasks and connecting multiple apps and services with n8n.
+- 🧠 **AI Agents & Chatbots** — Building AI-powered assistants that can interact with users and perform tasks.
+- 🔗 **API & Third-Party Integrations** — Connecting APIs, databases, Google services, and other platforms.
+- 🌐 **Websites & Web Applications** — Building responsive and functional websites using modern development and AI-assisted tools.
+- ⚙️ **Business Automation Solutions** — Creating practical workflows that help reduce manual work and save time.
 
 ---
 
@@ -49,57 +51,67 @@ I enjoy building solutions that connect different tools and services together. M
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Google Calendar](https://img.shields.io/badge/Google%20Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
 ---
 
-## 💡 Projects & Things I Build
+## 📚 Currently Exploring
 
-### 🦷 AI-Powered Dental Appointment Assistant
-
-An AI chatbot automation that helps collect patient information and appointment preferences.
-
-**Features:**
-
-- Conversational AI interaction
-- Collects patient details and dental procedure
-- Handles preferred appointment dates and times
-- Integrates with Google Calendar
-- Stores information in Google Sheets
-- Uses AI Agent workflows with n8n
-
-**Tech:** `n8n` `AI Agents` `Google Calendar API` `Google Sheets` `Gemini`
+- 🤖 **AI Automation & AI Agents**
+- ⚡ **Advanced n8n Workflows**
+- 🔗 **API & Webhook Integrations**
+- 💻 **AI-Assisted / Vibe Coding**
+- 🌐 **Full-Stack Web Development**
+- 🐍 **Python Automation**
+- 🐳 **Docker & Deployment**
 
 ---
 
-### 🐍 A Dummy's Guide to Philippine Snakes
+## 🎯 Current Focus
 
-An educational website designed to help people learn about Philippine snakes and promote awareness about their importance in the ecosystem.
-
-**Tech:** `WordPress` `Docker` `Web Development`
-
----
-
-### OroqCoco
-An e-commerce website based in Oroquieta City.
-
-**Tech:** `CSS` `Vercel` `Supabase`
+- Building real-world **AI Automation solutions**
+- Creating useful **AI Agents**
+- Developing **n8n workflows and API integrations**
+- Building modern **websites and web applications**
+- Expanding my portfolio with practical projects
+- Learning and experimenting with new AI development tools
 
 ---
 
-## 📚 Currently Learning
+## 🔐 Cybersecurity Background
 
+I also have a background and interest in cybersecurity, including **web security, penetration testing fundamentals, Kali Linux, Burp Suite, Wireshark, and Python scripting**.
 
-🤖 AI Automation & AI Agents
-⚡ Advanced n8n Workflows
-🔗 API & Webhook Integrations
-💻 AI-Assisted / Vibe Coding
-🌐 Full-Stack Web Development
-🐍 Python Automation
-🐳 Docker & Deployment
+🏅 [Google Cybersecurity Certificate](https://www.credly.com/badges/907ecff0-fa91-4745-979d-8a83ed58d1f0/linked_in_profile)
+
+🏴 [TryHackMe Profile](https://tryhackme.com/p/franzlystrr)
+
+---
+
+## 📊 GitHub Stats
+
+| GitHub Stats | Most Used Languages |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api?username=8kshj1jh44&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Franz's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8kshj1jh44&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /> |
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/franz-lyster-tagalogon-2b7283217/)
+
+[![Email](https://img.shields.io/badge/Email-franzlyster%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:franzlyster@gmail.com)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/franzlystrr)
+
+---
+
+### 💬 Open to opportunities involving AI Automation, n8n, AI Agents, API Integrations, and Web Development.
