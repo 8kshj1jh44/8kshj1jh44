@@ -96,14 +96,14 @@ I also have a background and interest in cybersecurity, including **web security
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=8kshj1jh44&show_icons=true&theme=default&hide_border=true" alt="Franz's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8kshj1jh44&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+<a href="https://github.com/8kshj1jh44">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8kshj1jh44&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</a>
+
 </p>
 
 ---
