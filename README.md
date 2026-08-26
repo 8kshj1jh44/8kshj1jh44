@@ -96,18 +96,6 @@ I also have a background and interest in cybersecurity, including **web security
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-
-<a href="https://github.com/8kshj1jh44">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8kshj1jh44&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</a>
-
-</p>
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/franz-lyster-tagalogon-2b7283217/)
